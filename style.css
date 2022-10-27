@@ -1,0 +1,147 @@
+.head p{
+    width: 161px;
+    position: absolute;
+    height: 30px;
+    margin-left: 640px;
+    margin-top: 141px;
+
+    font-family: 'Akkurat-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.searchbar {
+    position: absolute;
+    width: 580px;
+    height: 60px;
+    margin-left: 430px;
+    margin-top: 204px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.14);
+    border-radius: 244px;
+}
+
+.filter-row {
+    position: absolute;
+    /* width: 176px; */
+    Width: 1050px;
+    height: 16px;
+    left: 430px;
+    top: 292px;
+
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.rightTopbtn {
+    /* width: 28px; */
+    height: 16px;
+    /* margin-left: 500px; */
+    /* margin-top: -40px; */
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+.cashback a button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 4px 8px;
+    gap: 8px;
+
+    position: absolute;
+    width: 65px;
+    height: 18px;
+    background: #06C270;
+    border-radius: 2px;
+    margin-top: -8px;
+    border: none;
+}
+
+.cashback button {
+    width: 49px;
+    height: 10px;
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.9);
+    /* flex: none;
+    order: 0;
+    flex-grow: 0; */
+}
+
+.box2 {
+    Width: 579px;
+    Height: 134px;
+    margin-left: 430px;
+    margin-top: 335px;
+    margin-right: 431px;
+
+    /* width: 579px;
+    height: 134px;
+    left: 430px;
+    top: 336px; */
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 5px;
+}
+
+.id {
+    margin-top: 15px;
+    font-family: 'Akkurat-Bold';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.rightbtn {
+    margin-top: -40px;
+    font-family: 'Akkurat-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    color: #796101;
+    opacity: 0.6;
+}
+
+.box2 span {
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+}
+
+h5{
+    font-family: 'Lato';
+    font-style: normal;
+    /* font-weight: 500;    */
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.text {
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+}
